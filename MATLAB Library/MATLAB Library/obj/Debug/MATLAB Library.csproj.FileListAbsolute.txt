@@ -1,0 +1,6 @@
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\MATLAB Library\MATLAB Library\bin\Debug\MATLAB Library.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\MATLAB Library\MATLAB Library\bin\Debug\MATLAB Library.pdb
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\MATLAB Library\MATLAB Library\obj\Debug\MATLAB Library.csproj.AssemblyReference.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\MATLAB Library\MATLAB Library\obj\Debug\MATLAB Library.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\MATLAB Library\MATLAB Library\obj\Debug\MATLAB Library.dll
+C:\Users\jorge\Documents\Facultad\SEM2022-1\Temas Selectos de Programación I\MATLAB Library\MATLAB Library\obj\Debug\MATLAB Library.pdb
